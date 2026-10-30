@@ -8,5 +8,16 @@ public class arrayLoop {
 
             System.out.println(users[i]);
         }
+
+
+
+
+            String [] testUsers = {"user1" , "user2", "user3" , "user4"};
+
+            for (int i =0 ; i<testUsers.length ; i++) {
+
+                System.out.println(testUsers[i]);
+            }
+                
     }
 }
